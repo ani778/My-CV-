@@ -1,0 +1,119 @@
+.aboutMe{
+    /* max-width: 100%; */
+    padding-right: 100px;
+}
+.header {
+    display: flex;
+    padding-bottom: 30px;
+}
+body {
+    position: relative;
+     font-family: 'Playfair Display', serif;
+ }
+.myImage {
+    width: 200px;
+    height: 220px;
+}
+.contacts {
+    display: flex;
+    
+}
+.contact-info {
+    padding-right: 25px;
+}
+
+.container-info {
+    display: flex;
+    padding-top: 35px;
+}
+
+
+.main {
+    display: flex;
+    padding-top: 25px;
+    justify-content : space-between;
+}
+/* .bachelor {
+    display: flex;
+    justify-content: space-between;
+    border-left: 2px solid rgb(209, 208, 208); 
+    padding-left: 40px;
+}
+ */
+.info {
+    display: flex;
+    justify-content: space-between;
+    border-left: 2px solid rgb(209, 208, 208);
+    padding-left: 40px;
+    margin-top: 20px;
+}
+/* 
+.phd {
+    display: flex;
+    justify-content: space-between;
+    border-left: 2px solid rgb(209, 208, 208);
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.student {
+    display: flex;
+    justify-content: space-between;
+    border-left: 2px solid rgb(209, 208, 208);
+    padding-left: 40px;
+    margin-top: 20px;
+} */
+
+span {
+    justify-content: space-between;
+    align-items: center;
+}
+h3 {
+    padding-bottom: 20px;
+    padding-top: 5px;
+    margin: 0;
+}
+p {
+    margin: 0;
+    padding-bottom: 9px;
+}
+i {
+    padding-bottom: 10px;
+}
+hr {
+    margin: 0;
+}
+.experience {
+    display: flex;
+    
+}
+.skill {
+    display: flex;
+    
+}
+
+.page-content {
+    position:absolute;
+    margin: 85px 100px;
+    display: block;
+}
+.myName {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.icons {
+    padding-right: 25px;
+    padding-bottom: 15px;
+}
+.footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.education-info {
+    width: 70%;
+}
+.education-main {
+    padding-left: 30px;
+}
